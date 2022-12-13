@@ -1,5 +1,3 @@
-# ivan-yankov-cv
-Ivan Yankov CV
 ## Contacts
 **Name**: Ivan Yankov\
 **Position**: Software Engineer (PHP)\
