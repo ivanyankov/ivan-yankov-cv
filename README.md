@@ -1,8 +1,8 @@
 ## Contacts
 **Name**: Ivan Yankov\
-**Position**: Software Engineer (PHP)\
-**Company**: JobCloud AG (*jobs.ch - jobup.ch*)\
-**Location**: Zurich, Switzerland
+**Position**: Back End developer (PHP)\
+**Company**: Rubber Duck\
+**Location**: Plovdiv, Bulgaria
 
 ## Skills
 - OOP, SOLID
