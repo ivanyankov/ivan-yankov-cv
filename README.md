@@ -23,7 +23,15 @@
 
 ## Work experience
 
-### **JobCloud AG /2022 - present/**
+### **Rubber Duck /2023 - present/**
+
+---
+Rubber Duck Ltd. is a passion-driven software development boutique practicing a no nonsense business behavior and walks the extra mile daily. Helping advertising agencies and startups to deliver flawless development by undertaking or managing the whole or portion of the development process.
+- Develop the Back-End for Laravel and WordPress projects
+- WordPress theme and plugin development
+- Advise on Back-End structure and approach
+- Project estimation
+### **JobCloud AG /2022 - 2023/**
 (*jobs.ch - jobup.ch*)
 
 ---
@@ -59,3 +67,46 @@ Rubber Duck Ltd. is a passion-driven software development boutique practicing a 
 - WordPress theme and plugin development
 - Advise on Back-End structure and approach
 - Project estimation
+
+## Projects
+
+X is working with Company Y. A whole web solution for renting and selling
+apartments in Finland. Extracting and validating data from external services
+and presenting it to the end users for use. Submitting user applications to
+external services via API.
+Technologies used: **Wordpress, PHP, Laravel, JavaScript, HTML, React,
+Lando, CI & CD for Digital Ocean, Unit & Feature testing in Laravel**
+
+---
+X is working with Company Y. Wordpress plugin which allows delivery
+checkout integration for European countries for WooCommerce.
+Technologies used: **Wordpress, PHP, JavaScript, HTML**
+
+---
+X is working with Company Y. Wordpress plugin which allows delivery
+checkout integration for European countries for WooCommerce.
+Technologies used: **Wordpress, PHP, JavaScript, HTML**
+
+---
+X is working with Company Z. Wordpress plugin which allows loan
+checkout integration for Danish customers for WooCommerce.
+Technologies used: **Wordpress, PHP, JavaScript, HTML**
+
+---
+X is working with Company N. Created and supported API automated
+testing project for German fintech company in the payments industry.
+Technologies used: **Java, Selenium, SOAP UI.**
+
+---
+X has worked on many other small marketing websites, online shops, CMS
+websites for different types of industries.
+
+---
+Uvel - jewellery client facing E-commerce website and CRM platform built
+with Laravel that manages sales, storage and production and repairs of
+jewellery including cash register handler, barcode scanner and label
+printing on different hardware devices printers. The CRM helps the store
+management team by automating almost all the work. Role in project: Lead
+developer responsible for developing new modules and functionalities and
+also advice on project architecture.
+Technologies used: **Laravel, Vanilla JavaScript**
